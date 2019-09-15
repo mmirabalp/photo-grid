@@ -1,0 +1,19 @@
+
+header{
+	font-family: 'Kalam', cursive;
+	font-size: 3em;
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	border-bottom: 3px solid #f1f1f1;
+	padding-bottom: 1px;
+
+}
+
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
